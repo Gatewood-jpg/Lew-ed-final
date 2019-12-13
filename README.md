@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <HTML>
 <HEAD>
-<TITLE></TITLE>
+<TITLE>Law ed home</TITLE>
 </HEAD>
 <table>
 <Tr>
